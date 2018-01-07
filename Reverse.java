@@ -3,7 +3,7 @@ import java.util.*;
 
 /**
  *  A class that reads a file from the command line
- * and writes it to new file while reversing it
+ * and writes it to a new file while reversing it
  *
  *@author Colleen Stabler
  *@date Fri Dec 8 2017
