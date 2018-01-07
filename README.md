@@ -18,4 +18,4 @@ wodniw elosnoc eht ni gniteerg a yalpsiD //
 }
 }
 
-Of course, if you run Reversectwice on the same file, you get the original file."
+Of course, if you run Reverse twice on the same file, you get the original file."
