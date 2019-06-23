@@ -1,6 +1,6 @@
 # Reverse-File
 
-Taken from an exercise at Queen Mary University of London! 
+Taken from an exercise at Queen Mary University of London.
 
 Directions: "Write a program that replaces each line of a file with its reverse. For example if you 
 run:
